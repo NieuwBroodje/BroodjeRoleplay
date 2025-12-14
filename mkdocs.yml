@@ -2,7 +2,7 @@ site_name: NieuwBroodje Roleplay
 site_description: 'Wet en regelgeving van NieuwBroodje roleplay'
 site_url: https://Broodjeroleplay.nl
 repo_url: 'http://github.com/LeafRoleplay/BroodjeRoleplay'
-repo_name: 'Broodje Roleplay'
+repo_name: 'NieuwBroodje Roleplay'
 theme:
   name: material
   features:
