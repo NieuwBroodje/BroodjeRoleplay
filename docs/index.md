@@ -1,6 +1,6 @@
 # Broodje Roleplay
 
-Welkom op de pagina van Broodje Roleplay! In het menu aan de bovenkant vind je alle verschillende documenten die betrekking hebben op Broodje Roleplay.
+Welkom op de pagina van NieuwBroodje Roleplay! In het menu aan de bovenkant vind je alle verschillende documenten die betrekking hebben op NieuwBroodje Roleplay.
 
 ## Inhoud
 
@@ -13,8 +13,7 @@ Welkom op de pagina van Broodje Roleplay! In het menu aan de bovenkant vind je a
 
 | **Server**             | **Beschrijving**              | **Link**                      |
 |------------------------|-------------------------------|-------------------------------|
-| **_Broodje Roleplay_**    | Main Discord van Broodje         |  [Join](https://discord.gg/QF64rNa4cV) |
-| **_Broodje Support_**     | Support Discord van Broodje      |  [Join](https://discord.gg/GEPAk344Nf) |
-| **_Broodje Onderwereld_** | Onderwereld Disscord van Broodje |  [Join](https://discord.gg/D2trrsqPKt) |
-| **_Broodje Overheid_**    | Overheid Discord van Broodje     |  [Join](https://discord.gg/KnvfV4FMA2) |
-| **_Broodje Speeltijd_**     | Speeltijd Discord van Broodje  |  [Join](https://discord.gg/xQzx6p6U6M) |
+| **NieuwBroodje Roleplay_**    | Main Discord van NieuwBroodje         |  [Join](https://discord.gg/KaA9kzjFDJ) |
+| **NieuwBroodje Support_**     | Support Discord van NieuwBroodje      |  [Join](https://discord.gg/sBuNPzgdCZ) |
+| **NieuwBroodje Onderwereld_** | Onderwereld Disscord van NieuwBroodje |  [Join](https://discord.gg/vbhBrR9t) |
+| **NieuwBroodje Overheid_**    | Overheid Discord van NieuwBroodje     |  [Join](https://discord.gg/BrwdJYYX) |
