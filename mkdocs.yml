@@ -1,5 +1,5 @@
-site_name: Broodje Roleplay
-site_description: 'Wet en regelgeving van Broodje roleplay'
+site_name: NieuwBroodje Roleplay
+site_description: 'Wet en regelgeving van NieuwBroodje roleplay'
 site_url: https://Broodjeroleplay.nl
 repo_url: 'http://github.com/LeafRoleplay/BroodjeRoleplay'
 repo_name: 'Broodje Roleplay'
@@ -18,7 +18,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.footer
-  logo: Broodje.png
+  logo: nieuwbroodje.gif
   favicon: Broodje.png
   palette:
    # Palette toggle for light mode
@@ -37,7 +37,7 @@ theme:
 
   nav: 
     - Home: index.md
-    - Broodje Team: team.md
+    - NieuwBroodje Team: team.md
     - Algmene Regels: algemeen.md
     - Onderwereld Regels: onderwereld.md
 
@@ -63,7 +63,7 @@ extra:
     actions:
       - accept
   
-copyright: Copyright &copy; 2025 Broodje Roleplay - Alle rechten voorbehouden.
+copyright: Copyright &copy; 2025 NieuwBroodje Roleplay - Alle rechten voorbehouden.
 
 plugins:
   - git-revision-date-localized:
