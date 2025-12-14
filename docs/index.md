@@ -13,7 +13,7 @@ Welkom op de pagina van NieuwBroodje Roleplay! In het menu aan de bovenkant vind
 
 | **Server**             | **Beschrijving**              | **Link**                      |
 |------------------------|-------------------------------|-------------------------------|
-| **NieuwBroodje Roleplay_**    | Main Discord van NieuwBroodje         |  [Join](https://discord.gg/KaA9kzjFDJ) |
-| **NieuwBroodje Support_**     | Support Discord van NieuwBroodje      |  [Join](https://discord.gg/sBuNPzgdCZ) |
-| **NieuwBroodje Onderwereld_** | Onderwereld Disscord van NieuwBroodje |  [Join](https://discord.gg/vbhBrR9t) |
-| **NieuwBroodje Overheid_**    | Overheid Discord van NieuwBroodje     |  [Join](https://discord.gg/BrwdJYYX) |
+| **NieuwBroodje Roleplay**    | Main Discord van NieuwBroodje         |  [Join](https://discord.gg/KaA9kzjFDJ) |
+| **NieuwBroodje Support**     | Support Discord van NieuwBroodje      |  [Join](https://discord.gg/sBuNPzgdCZ) |
+| **NieuwBroodje Onderwereld** | Onderwereld Disscord van NieuwBroodje |  [Join](https://discord.gg/vbhBrR9t) |
+| **NieuwBroodje Overheid**    | Overheid Discord van NieuwBroodje     |  [Join](https://discord.gg/BrwdJYYX) |
