@@ -19,7 +19,7 @@ theme:
     - navigation.expand
     - navigation.footer
   logo: nieuwbroodje.gif
-  favicon: Broodje.png
+  favicon: nieuwbroodje.gif
   palette:
    # Palette toggle for light mode
     - scheme: slate
