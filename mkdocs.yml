@@ -37,7 +37,6 @@ theme:
 
   nav: 
     - Home: index.md
-    - NieuwBroodje Team: team.md
     - Algmene Regels: algemeen.md
     - Onderwereld Regels: onderwereld.md
 
